@@ -1,11 +1,12 @@
 
-
 .name	{
 	font-family: 'Cinzel', serif;
 	font-size: 50px;
 	font-weight: bold;
 	color: orange;
+
 	padding-top: 50px;
+
 
 }
 
@@ -18,7 +19,9 @@
 }
 
 img	{
-	padding-right: 30px;
-	padding-top: 50px;
+	width: 100%;
+	margin-left: 10%;
+	margin-top: 20%;
+
 
 }
